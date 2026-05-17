@@ -14,7 +14,7 @@
 
 ### About
 
-I build AI systems that run where it matters - on the edge, under constraints, in real time. My work sits at the intersection of applied ML, systems engineering, and making models do useful things on hardware that wasn't designed for them.
+I build AI systems that run where it matters, on the edge, under constraints, in real time. My work sits at the intersection of applied ML, systems engineering, and making models do useful things on hardware that wasn't designed for them.
 
 Currently focused on edge inference optimization, knowledge graph architectures, and fine-tuning open-weight models for domain-specific deployment.
 
