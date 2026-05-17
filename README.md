@@ -16,7 +16,9 @@
 
 I build AI systems that run where it matters, on the edge, under constraints, in real time. My work sits at the intersection of applied ML, systems engineering, and making models do useful things on hardware that wasn't designed for them.
 
-Currently focused on edge inference optimization, knowledge graph architectures, and fine-tuning open-weight models for domain-specific deployment.
+Currently focused on edge inference optimization, knowledge graph architectures, and fine-tuning open-weight models for domain-specific deployment. Actively researching mechanistic interpretability in agentic systems and multi-agent coordination under resource constraints.
+
+`🔬 Open to research collaborations in edge AI, interpretability, and agentic architectures.`
 
 ---
 
@@ -75,13 +77,27 @@ Currently focused on edge inference optimization, knowledge graph architectures,
 
 ---
 
-### Interests
+### Current Research
 
-- Edge deployment of LLMs on constrained hardware (Jetson, mobile SoCs)
-- Knowledge graphs for structured reasoning
-- Fine-tuning and quantization of open-weight models (QLoRA, GGUF, ONNX)
-- Agentic systems and multi-agent architectures
-- Mechanistic interpretability
+- **Edge LLM Deployment** - Quantized model inference on constrained hardware (Jetson, sub-8GB RAM)
+- **Knowledge Graph Reasoning** - Graph-augmented retrieval and structured multi-hop inference
+- **Model Fine-Tuning** - Domain-specific adaptation of open-weight models via QLoRA/GGUF pipelines
+- **Agentic Architectures** - Multi-agent coordination, tool use, and autonomous task decomposition
+- **Mechanistic Interpretability** - Understanding internal representations in agentic and instruction-tuned models
+
+---
+
+### Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sotiamaestro/sotiamaestro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sotiamaestro/sotiamaestro/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sotiamaestro/sotiamaestro/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
