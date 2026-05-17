@@ -14,7 +14,7 @@
 
 ### About
 
-I build AI systems that run where it matters, on the edge, under constraints, in real time. My work sits at the intersection of applied ML, systems engineering, and making models do useful things on hardware that wasn't designed for them.
+I build AI systems that run where it matters - on the edge, under constraints, in real time. My work sits at the intersection of applied ML, systems engineering, and making models do useful things on hardware that wasn't designed for them.
 
 Currently focused on edge inference optimization, knowledge graph architectures, and fine-tuning open-weight models for domain-specific deployment. Actively researching mechanistic interpretability in agentic systems and multi-agent coordination under resource constraints.
 
@@ -103,18 +103,16 @@ Currently focused on edge inference optimization, knowledge graph architectures,
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sotiamaestro&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff&ring_color=58a6ff" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sotiamaestro&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" height="170" />
+<!-- Profile metrics -->
+![Profile Views](https://komarev.com/ghpvc/?username=sotiamaestro&style=flat-square&color=58a6ff&label=Profile+Views)
+![GitHub Followers](https://img.shields.io/github/followers/sotiamaestro?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/sotiamaestro?style=flat-square&color=58a6ff&labelColor=0d1117&label=Total+Stars&affiliations=OWNER)
 
-<br/>
-
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sotiamaestro&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" />
-
-<br/><br/>
-
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sotiamaestro&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" width="95%" />
+<!-- Project downloads -->
+| Project | Downloads |
+|---------|-----------|
+| **llama-code** | ![Downloads](https://img.shields.io/github/downloads/sotiamaestro/llama-code/total?style=flat-square&color=58a6ff&labelColor=0d1117&label=downloads) |
+| **SmolLM3-3B-heretic** | ![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Ftesladude5%2FSmolLM3-3B-heretic&query=%24.downloads&style=flat-square&color=58a6ff&labelColor=0d1117&label=downloads&logo=huggingface) |
 
 </div>
 
