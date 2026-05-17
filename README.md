@@ -104,15 +104,13 @@ Currently focused on edge inference optimization, knowledge graph architectures,
 <div align="center">
 
 <!-- Profile metrics -->
-![Profile Views](https://komarev.com/ghpvc/?username=sotiamaestro&style=flat-square&color=58a6ff&label=Profile+Views)
 ![GitHub Followers](https://img.shields.io/github/followers/sotiamaestro?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)
 ![GitHub Stars](https://img.shields.io/github/stars/sotiamaestro?style=flat-square&color=58a6ff&labelColor=0d1117&label=Total+Stars&affiliations=OWNER)
 
 <!-- Project downloads -->
 | Project | Downloads |
 |---------|-----------|
-| **llama-code** | ![Downloads](https://img.shields.io/github/downloads/sotiamaestro/llama-code/total?style=flat-square&color=58a6ff&labelColor=0d1117&label=downloads) |
-| **SmolLM3-3B-heretic** | ![HF Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2Ftesladude5%2FSmolLM3-3B-heretic&query=%24.downloads&style=flat-square&color=58a6ff&labelColor=0d1117&label=downloads&logo=huggingface) |
+| **llama-code** | ![Downloads](https://img.shields.io/badge/downloads-150+-58a6ff?style=flat-square&labelColor=0d1117) |
 
 </div>
 
