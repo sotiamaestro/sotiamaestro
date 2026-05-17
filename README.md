@@ -82,3 +82,4 @@ Currently focused on edge inference optimization, knowledge graph architectures,
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1a1f2e&height=100&section=footer" width="100%" />
 
 </div>
+
