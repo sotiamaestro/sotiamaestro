@@ -103,15 +103,6 @@ Currently focused on edge inference optimization, knowledge graph architectures,
 
 <div align="center">
 
-<!-- Profile metrics -->
-![GitHub Followers](https://img.shields.io/github/followers/sotiamaestro?style=flat-square&color=58a6ff&labelColor=0d1117&label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/sotiamaestro?style=flat-square&color=58a6ff&labelColor=0d1117&label=Total+Stars&affiliations=OWNER)
-
-<!-- Project downloads -->
-| Project | Downloads |
-|---------|-----------|
-| **llama-code** | ![Downloads](https://img.shields.io/badge/downloads-150+-58a6ff?style=flat-square&labelColor=0d1117) |
-
 </div>
 
 ---
